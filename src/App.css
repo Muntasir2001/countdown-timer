@@ -1,0 +1,11 @@
+.upper-layer {
+    height: 10px;
+    width: 20px;
+    color: hsl(237, 18%, 59%)
+}
+
+.lower-layer {
+    height: 10px;
+    width: 20px;
+    color: hsl(237, 18%, 59%)
+}
