@@ -1,18 +1,14 @@
-import React from "react";
+import React from 'react';
 
 const Card = ({}) => {
-    return (
-        <>
-            <div>
-                <div classname="upper-layer">
-                    
-                </div>
-                <div classname="lower layer">
+	return (
+		<>
+			<div>
+				<div classname='upper-layer'></div>
+				<div classname='lower layer'></div>
+			</div>
+		</>
+	);
+};
 
-                </div>
-            </div>
-        </>
-    )
-}
-
-export default Card
+export default Card;
